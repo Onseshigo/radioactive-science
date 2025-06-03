@@ -1,0 +1,1 @@
+radioactive-science-pack = electromagnetic-science-pack + hue shift

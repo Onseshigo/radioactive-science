@@ -1,0 +1,17 @@
+{
+  "name": "radioactive-science",
+  "version": "0.0.2",
+  "title": "Radioactive science",
+  "author": "test447",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ],
+  "description": "Navuis-specific science for all things uranium-related. In addition to needing uranium mined from the surface of Nauvis, it can only be crafted on Nauvis as well. Give Nauvis the planet-specific science treatment that all the other planets got in space age!",
+  "package": {
+    "git_publish_branch": "main",
+    "ignore": [".git", ".github", ".vscode", ".kakrc"],
+    "sync_portal_details":  true
+  }
+}
